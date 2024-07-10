@@ -137,4 +137,4 @@ Here’s a step-by-step guide to deploy Eureka Service Discovery and an API Gate
 
    Access the dashboard at `http://localhost:8761`.
 
-By following these steps, you should be able to deploy Eureka Service Discovery and an API Gateway in a Kubernetes environment successfully. If you encounter specific issues, feel free to share more details for further assistance.
+By following these steps, you should be able to deploy Eureka Service Discovery and an API Gateway in a Kubernetes environment successfully. 
